@@ -21,9 +21,9 @@ Modify the following variables to customize the pyramid:
 ## Example Output
 ### Normal Pyramid (`inverted = false`)
     
-    #       
-   ###      
-  #####     
- #######
-#########
+   #       
+  ###      
+ #####     
+#######
+
    
