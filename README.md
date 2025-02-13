@@ -18,12 +18,5 @@ Modify the following variables to customize the pyramid:
 - `const count = 8;` → Adjust the height of the pyramid.
 - `let inverted = true;` → Set `true` for an inverted pyramid or `false` for a normal one.
 
-## Example Output
-### Normal Pyramid (`inverted = false`)
-    
-   #       
-  ###      
- #####     
-#######
 
    
